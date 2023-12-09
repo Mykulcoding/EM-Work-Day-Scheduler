@@ -1,7 +1,6 @@
 # EM-Work-Day-Scheduler
 
-This is a simple calendar application that enables users to manage their daily schedule effectively. It allows users to add important events to a planner for each hour of the day. 
-The app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. Day.js is used to work with date and time functionalities in the browser.
+This is a simple calendar application that enables users to manage their daily schedule effectively. It allows users to add important events to a planner for each hour of the day. The app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. Day.js is used to work with date and time functionalities in the browser.
 
 
 ## Contents
@@ -15,7 +14,7 @@ The app runs in the browser and features dynamically updated HTML and CSS powere
 
 
 ## How to Install and Run the Project
-- [To run this project locally, follow these steps]:
+[To run this project locally, follow these steps]:
 - Clone the repository to your local machine: git clone https://github.com/Mykulcoding/EM-Work-Day-Scheduler
 - Open the project in a code editor.
 - Open index.html in a web browser to use the application.
@@ -35,8 +34,7 @@ https://mykulcoding.github.io/EM-Work-Day-Scheduler/
 
 
 ## Note:
-- If you'd like to contribute to this project, follow these steps:
-
+If you'd like to contribute to this project, follow these steps:
 - Fork the repository.
 - Create a new branch (git checkout -b feature/awesome-feature).
 - Make changes and commit them (git commit -m 'Add an awesome feature').
@@ -46,8 +44,7 @@ https://mykulcoding.github.io/EM-Work-Day-Scheduler/
 
 ## Website Image
 
-![Screenshot](https://github.com/Mykulcoding/EM-Coding-Quiz/assets/147704782/bd5134dc-5705-4192-9d21-39aaef271af3)
-
+![Page-Screenshot](https://github.com/Mykulcoding/EM-Work-Day-Scheduler/assets/147704782/82dcc5d7-3350-4193-b79f-0e2b69de9800)
 
 ## Collaboration
 
